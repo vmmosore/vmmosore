@@ -7,5 +7,5 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/glucosjo/ocbadge/main/card.svg"/>
+  <img src="https://raw.githubusercontent.com/vmmosore/ocbadge/main/card.svg"/>
 </div>
